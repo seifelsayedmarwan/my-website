@@ -15,7 +15,6 @@
 header {
     background-color: lightblue;
     width: 100%;
-    /*يعني يكون ثابت*/
     position: fixed;
     z-index: 999;
     display: flex;
