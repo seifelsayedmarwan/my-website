@@ -168,7 +168,7 @@ section {
     color: blue;
 }
 
-.Email p {
+.Email a {
     color: aliceblue;
     background-color: blue;
     text-decoration: none;
