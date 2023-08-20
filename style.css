@@ -13,7 +13,7 @@
 }
 
 header {
-    background-color: aqua;
+    background-color: lightblue;
     width: 100%;
     /*يعني يكون ثابت*/
     position: fixed;
@@ -68,7 +68,7 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: blue;
+    color: yellow;
     font-size: 3em;
     font-weight: 600;
 }
@@ -165,7 +165,7 @@ footer {
 .footer-title {
     font-size: 1.3em;
     font-weight: 600;
-    color: blue;
+    color: aliceblue;
 }
 
 .Email a {
